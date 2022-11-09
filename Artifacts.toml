@@ -1,0 +1,9 @@
+[[OpenCL_Headers]]
+arch = "x86_64"
+git-tree-sha1 = "7e498283fb547517c42d347fa7a42aa725b7058b"
+libc = "glibc"
+os = "linux"
+
+    [[OpenCL_Headers.download]]
+    sha256 = "85e659d76a09dd2799212c9cf088099cd37a8971674f176ac10968bf0221c200"
+    url = "https://github.com/michel2323/OpenCL_Headers_jll.jl/releases/download/OpenCL_Headers-v2022.9.30+0/OpenCL_Headers.v2022.9.30.x86_64-linux-gnu.tar.gz"
